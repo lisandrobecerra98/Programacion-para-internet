@@ -1,0 +1,8 @@
+1. De preferencia utilizar VSCODE
+2. Abrir la consola: 
+    Presionar en view y despues en terminal para abrir la consola
+3. Posicionarse en la carpeta del proyecto Trabajo4 y verificar con ls si se encuentra ahi
+4. ejecutar los siguientes comandos:
+    node server.js
+5. Debe mostrarse el siguiente mensaje en consola: Servidor escuchando en http://localhost:3000
+6. Abrir la ruta http://localhost:3000 para manipular la aplicacion
